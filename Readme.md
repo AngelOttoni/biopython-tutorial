@@ -2,7 +2,8 @@
 
 - Esse Tutorial será apresentado na disciplina BF-931 TÓPICOS AVANÇADOS EM MICOLOGIA I - Introdução ao Biopython do Programa de Pós-Graduação de Biologia de Fungos [PPGBF](https://www.ufpe.br/ppgbf) da Universidade Federal de Pernambuco [UFPE](https://www.ufpe.br/). 
 
-- Sendo produzido a partir do curso de estudo de [biopython](https://biopython.org/) desenvolvido pelas **Pyladies Bioinfo** que por sua vez se embasaram na [documentação oficial](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf).
+[biopython](https://biopython.org/)
+[documentação oficial](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf)
 
 - O objetivo desse tutorial é contextualizar e introduzir o uso da biblioteca biopython para análise de sequências de DNA de fungos.
 
