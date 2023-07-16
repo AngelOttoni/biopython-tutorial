@@ -11,7 +11,7 @@
 
 [biopython](https://biopython.org/)
 
-[documentação oficial](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf)
+[Official documentation](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf)
 
-[Original repository](https://github.com/pamellabiotec/Tutorial_Desvendando_o_codigo_genetico_com_biopython.git)
+[Reference repository](https://github.com/pamellabiotec/Tutorial_Desvendando_o_codigo_genetico_com_biopython.git)
 
